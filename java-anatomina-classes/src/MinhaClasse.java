@@ -5,6 +5,6 @@ public class MinhaClasse {
         ano = 2022;
 
         final String BR = "Brasil";
-        BR = "Beazil";
+        BR = "Beaziiiiil";
     }
 }
