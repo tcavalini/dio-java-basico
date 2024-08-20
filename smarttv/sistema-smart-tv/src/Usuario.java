@@ -25,6 +25,7 @@ public class Usuario {
 
         smartTv.mudarCanal(13);
         System.out.println("Novo Status -> Canal atual ? " + smartTv.canal);
-
+        
+        
     }
 }
