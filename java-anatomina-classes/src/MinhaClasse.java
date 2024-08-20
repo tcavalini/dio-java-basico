@@ -1,10 +1,8 @@
 public class MinhaClasse {
     public static void main(String [] args){
-        int ano = 2021.;
+        float ano = 2.5F;
+        final double TESTE = ano;
 
-        ano = 2022;
-
-        final String BR = "Brasil";
-        BR = "Beaziiiiil";
+        System.out.println(TESTE);
     }
 }
